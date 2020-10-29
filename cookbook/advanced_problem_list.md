@@ -13,8 +13,6 @@
 ```
 + タグは `#` で始まる英単語でお願いします．複数可（スペース区切り）
 + レベルは以下のいずれかでお願いします. （主観でいいです）
-    1. elementary
-    1. easy
     1. intermediate
     1. advanced
     1. master
