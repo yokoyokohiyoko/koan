@@ -38,9 +38,34 @@
     + タグ： #list #string
     + レベル: introduction
 
+1. 実行すると "HOGE!" をプリントする関数 hoge を定義してください。
+    + タグ： #function 
+    + レベル: introduction
 
+1. 引数 name を引き取り、"Hello <name> さん!" と出力する関数 hello を定義してください。
+    + タグ： #function 
+    + レベル: introduction
 
+1. 引数 name を引き取り、<name> が s で始まる名前であれば、"Hello Mr. <name> さん!", m で始める名前であれば、"Hello Miss. <name> さん!" ,  k で始める名前であれば、"Hello Ms. <name> さん!", それ以外であれば、"Hello <name> さん!" と出力する関数 hello を定義してください。
+    + タグ： #function 
+    + レベル: introduction
 
+1.  `x = [1,2]` と `y = [3,4]` をつなげて一つのリスト [1,2,3,4]にしてください。ただし リストのメソッド関数を使うこと. x + y  ではダメです．
+    + タグ： #list
+    + レベル: introduction
 
+1.  `x = [1,2]` と `y = [3,4]` を使って、[1,2,[3,4]] というリスト z を作成して下さい
+    + タグ： #list
+    + レベル: introduction
+
+1. 0から50の整数リスト l を作成してください
+    + タグ： #list
+    + レベル: introduction
+
+1. 0から50の整数リスト l を作成して、全部出しあわせてください。
+    + タグ： #list
+    + レベル: introduction
+
+1.  `x = -500.123` の 絶対値、整数値、5乗、丸めた整数、を組み込み関数を使って取得し、タプルで返して下さい
 
 
