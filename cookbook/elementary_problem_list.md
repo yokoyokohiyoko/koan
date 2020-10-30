@@ -42,11 +42,11 @@
     + タグ： #function 
     + レベル: introduction
 
-1. 引数 name を引き取り、"Hello <name> さん!" と出力する関数 hello を定義してください。
+1. 引数 name を引き取り、"Hello [name] さん!" と出力する関数 hello を定義してください。
     + タグ： #function 
     + レベル: introduction
 
-1. 引数 name を引き取り、<name> が s で始まる名前であれば、"Hello Mr. <name> さん!", m で始める名前であれば、"Hello Miss. <name> さん!" ,  k で始める名前であれば、"Hello Ms. <name> さん!", それ以外であれば、"Hello <name> さん!" と出力する関数 hello を定義してください。
+1. 引数 name を引き取り、[name] が s で始まる名前であれば、"Hello Mr. [name] さん!", m で始める名前であれば、"Hello Miss. [name] さん!" ,  k で始める名前であれば、"Hello Ms. [name] さん!", それ以外であれば、"Hello [name] さん!" と出力する関数 hello を定義してください。
     + タグ： #function 
     + レベル: introduction
 
