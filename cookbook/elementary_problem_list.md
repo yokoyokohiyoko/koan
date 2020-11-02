@@ -22,7 +22,7 @@
 + プルリクに不慣れな人はまず[fintalk/study-git 他の人のリポジトリーの変更依頼を出そう](https://github.com/fintalk/study-git/blob/main/pullrequest.md)を読んで学んでください
 
 1. Koan レポジトリを folk する
-1. `cookbok/submit` ディレクトリのなかにご自身のディレクトリを作る.
+1. `cookbok/submit` ディレクトリのなかに自分の名前でディレクトリを作る.（例: `cookbok/submit/shinseitaro`) 
 1. そのディレクトリの中に問題一つに対してファイル一つを作成して解答する。（ファイル名は任意。）
 1. Koan に pull request を出す
 
