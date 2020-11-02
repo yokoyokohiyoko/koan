@@ -8,4 +8,4 @@
     + 細かいことは Fintalk で説明します。
 1. colaboratory で取組む場合
     + ファイルをgoogle driveに uploadして、シェア用のリンクを slack などでご連絡ください。その際必ず **編集者権限** でシェアして下さい。
-    ![]("img/drill_colab.jpg")
+    ![]("https://github.com/fintalk/koan/blob/main/img/drill_colab.jpg")
